@@ -109,6 +109,7 @@ void display() {
       cout<< ptr->data <<" ";
       ptr = ptr->next;
    }
+   cout<<endl;
 }
 
 // Check whether given value exists or not  --
